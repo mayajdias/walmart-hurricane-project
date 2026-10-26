@@ -16,10 +16,10 @@
 
 | Role | Owner | Backup |
 |---|---|---|
-| cleaning + decision log | Nate | Jack |
-| weather API + join | Alex | Nate |
+| cleaning + decision log | Alex | Jack |
+| weather API + join | Jack | Nate |
 | analysis Q1-Q5 | Maya | Alex |
-| charts + presentation | Jack | Maya |
+| charts + presentation | Nate | Maya |
 
 ## Question owners
 
