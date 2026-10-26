@@ -16,20 +16,20 @@
 
 | Role | Owner | Backup |
 |---|---|---|
-| cleaning + decision log | Alex | Jack |
+| cleaning + decision log | Nate | Jack |
 | weather API + join | Jack | Nate |
 | analysis Q1-Q5 | Maya | Alex |
-| charts + presentation | Nate | Maya |
+| charts + presentation | Alex | Maya |
 
 ## Question owners
 
 | Question | Owner | Reviewer |
 |---|---|---|
-| Q1 demand surge | Nate | Jack |
-| Q2 SKU consolidation | Alex | Nate |
+| Q1 demand surge | Maya | Jack |
+| Q2 SKU consolidation | Maya | Nate |
 | Q3 weather correlation | Maya | Alex |
-| Q4 stores and geography | Jack | Maya |
-| Q5 signal or artifact | Nate | Jack |
+| Q4 stores and geography | Maya | Jack |
+| Q5 signal or artifact | Maya | Nate |
 
 ## How we work
 - **repo url:** https://github.com/mayajdias/walmart-hurricane-project
