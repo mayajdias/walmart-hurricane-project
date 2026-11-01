@@ -27,9 +27,9 @@
 |---|---|---|
 | Q1 demand surge | Maya | Jack |
 | Q2 SKU consolidation | Maya | Nate |
-| Q3 weather correlation | Maya | Alex |
-| Q4 stores and geography | Maya | Jack |
-| Q5 signal or artifact | Maya | Nate |
+| Q3 weather correlation | Jack | Alex |
+| Q4 stores and geography | Alex | Jack |
+| Q5 signal or artifact | Alex | Nate |
 
 ## How we work
 - **repo url:** https://github.com/mayajdias/walmart-hurricane-project
