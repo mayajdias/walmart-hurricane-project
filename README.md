@@ -6,7 +6,7 @@
 
 | Name | GitHub | Role / main contributions |
 |------|--------|---------------------------|
-| Nate Carter | natecarter459 | Data cleaning + decision log |
+| Nate Carter | natecarter459-droid | Data cleaning + decision log |
 | Jack Lenk | jacklenkk | Weather API + join, Q3, reflection #2 |
 | Maya Dias | mayajdias | Analysis, Q1–Q2, slide deck |
 | Alex Cho | alexcho2823-del | Q4–Q5, reflection #4, Q4/Q5 + recommendation slides, README |
